@@ -1,6 +1,7 @@
-## Hi, I'm Aashima 👋  
+## Hi, I'm Aashima Sehgal👋  
 
 🎓 Final Year B.Tech CSE Student  
+💼 Seeking entry-level opportunities in data-driven and machine learning roles  
 💡 Building intelligent, end-to-end systems using data, machine learning and NLP  
 
 ---
